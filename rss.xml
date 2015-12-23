@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ashley Smalls]]></title>
+        <description><![CDATA[Ashley Smalls]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 05:37:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ashley Smalls Bio]]></title>
+            <description><![CDATA[<article><h1>Ashley Smalls Bio</h1><p>Ashley Smalls is the Assistant Social Media Editor at Forbes. She has a 
+B.A. in Broadcast Journalism from The Pennsylvania State University. Her
+ work has been published in USA Today, Woman's Day and iVillage.com. 
+She's a self professed socialmedialite and pop culture junkie with a 
+love for fashion and Beyonce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d38b0ae3b03f70ef45fcdba40fc169939da67310.jpg"></article>]]></description>
+            <link>undefinedashley-smalls-bio/index.html</link>
+            <guid isPermaLink="false">ec2df345-321a-40d4-995b-a7347add2e26</guid>
+            <pubDate>Wed, 23 Dec 2015 05:37:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
